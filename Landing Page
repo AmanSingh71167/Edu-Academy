@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>EduApp - Online Learning Platform</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            text-align: center;
+            background-color: #f5f8ff;
+            color: #333;
+        }
+        h1 {
+            color: #004aad;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.5;
+        }
+        .highlight {
+            color: #007bff;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to EduApp</h1>
+    <p>
+        EduApp is an <span class="highlight">online education platform</span> 
+        that provides quality courses and learning resources to students.
+    </p>
+    <p>
+        Currently, our app is under development. We aim to launch soon with features like:
+    </p>
+    <ul style="text-align: left;">
+        <li>Video lectures</li>
+        <li>Quizzes & Assignments</li>
+        <li>Interactive live sessions</li>
+        <li>Certificate of completion</li>
+    </ul>
+    <p>
+        Thank you for your patience. Stay tuned for updates!
+    </p>
+</body>
+</html>
